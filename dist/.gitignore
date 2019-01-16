@@ -1,0 +1,5 @@
+# next.js build output
+.next
+.Ds_Store
+.cache
+dist
