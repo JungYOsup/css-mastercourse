@@ -6,8 +6,9 @@
   "author": "",
   "license": "ISC",
   "scripts": {
-
-    "start":"parcel index.html"
-
+    "start": "parcel index.html"
+  },
+  "dependencies": {
+    "postcss-preset-env": "^6.5.0"
   }
 }
