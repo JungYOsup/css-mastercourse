@@ -125,3 +125,14 @@ h1 {
 
 
 */
+
+main {
+  background-color: blue;
+   & section {
+    background-color: red;
+    width: 40px;
+  }
+}
+
+
+
